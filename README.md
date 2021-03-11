@@ -1,5 +1,5 @@
 # Mini Flutter project
- in this repository did some of flutter mini projects from Angela Yu course :</br>
+ in this repository i have done some of flutter mini projects from Angela Yu course :</br>
  1.I Am Rich</br>
  2.I Am Poor</br>
  3.MiCard</br>
