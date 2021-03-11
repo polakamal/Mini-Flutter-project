@@ -1,9 +1,9 @@
 # Mini Flutter project
- in this repository did some of flutter mini projects from Angela Yu course :
- 1.I Am Rich
- 2.I Am Poor
- 3.MiCard
- 4.Dicee
- 5.Xylophone 
- 6.Quizzler 
- 7.BMI Calculator
+ in this repository did some of flutter mini projects from Angela Yu course :</br>
+ 1.I Am Rich</br>
+ 2.I Am Poor</br>
+ 3.MiCard</br>
+ 4.Dicee</br>
+ 5.Xylophone </br>
+ 6.Quizzler </br>
+ 7.BMI Calculator</br>
